@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro Dias Soares
 
 <div>
-  <img height="180em" src="https://github-readme-stats-vercel.app/api?username=pedrinndias&show_icons-true&theme=dracula&include_all_commits-true&count_private-ture" />
+  <img height="180em" src="https://github-readme-stats-vercel.app/api?username=pedrinndias&show_icons=true&theme=dracula&include_all_commits=true&count_private=ture" />
   
 </div>
